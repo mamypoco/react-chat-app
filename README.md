@@ -1,35 +1,34 @@
-# Getting Started with Create React App
+# This project is consist of 2 folders:
 
-This project is consist of 2 folders:
-
-server: nodeJS
-client: ReactJS
+1. server: nodeJS
+2. client: ReactJS
 
 ## Steps to start this chat app:
 
-1. In your code editor, create 2 folders server and client.
-2. Navigate into the client folder and create a new React.js project.
+1. In your code editor, navigate your local folder to where you want to download the roor directory that has these 2 folders.
 
-   ### `npx create-react-app ./`
+2. Clone the repository
 
-3. Install Socket.io client API and React Router.
+   ### `git clone https://github.com/mamypoco/react-chat-app.git `
 
-   ### `npm install socket.io-client react-router-dom`
+3. Navigate to the client folder, and install required dependencies.
 
-4. Navigate into the server folder and install the following:
+   ### `npm install`
 
-   ### `npm install express cors nodemon socket.io`
+4. Navigate to the the server folder, and install required dependencies
 
-5. Download files from the github repository.
+   ### `npm install`
 
-## To run the project:
+5. Start the project:
 
-Navigate to server and run:
+   ## To run the project:
 
-### `npm start`
+   Navigate to server and run:
 
-Navigate to client and run:
+   ### `npm start`
 
-### `npm start`
+   Navigate to client and run:
+
+   ### `npm start`
 
 6. You will see the chat front to start the chat in your web browser.
