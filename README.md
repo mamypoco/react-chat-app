@@ -21,14 +21,14 @@
 
 5. Start the project:
 
-   ## To run the project:
+## To run the project:
 
-   Navigate to server and run:
+Navigate to server and run:
 
-   #### `npm start`
+#### `npm start`
 
-   Navigate to client and run:
+Navigate to client and run:
 
-   #### `npm start`
+#### `npm start`
 
 6. You will see the chat frontpage to start chat in your web browser. I suggest to create 2 tabs in your browser and enter as different name using the same room string/text.
