@@ -31,4 +31,4 @@
 
    ### `npm start`
 
-6. You will see the chat front to start the chat in your web browser.
+6. You will see the chat frontpage to start chat in your web browser. I suggest to create 2 tabs in your browser and enter as different name using the same room string/text.
