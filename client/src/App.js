@@ -20,7 +20,7 @@ function App() {
    return (
       <div className="App">
          {!showChat ? (
-            //if chowChat is false, show the join chat portion
+            //if showChat is false, show the upper chat portion only
             <div className="joinChatContainer">
                <h3>HelloChat 💬</h3>
                <input

@@ -6,6 +6,7 @@ function Chat({ socket, username, room }) {
    const [messageList, setMessageList] = useState([]);
 
    const sendMessage = async () => {
+      //make this async so that we wait for message to be sent to update our array because we wait for this to be done to continue moving forward.
       if (currentMessage !== "") {
          const messageData = {
             room: room,
